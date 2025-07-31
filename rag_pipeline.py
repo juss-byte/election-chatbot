@@ -35,7 +35,7 @@ def get_rag_chain(index_path="faiss_index"):
 
     Answer in full sentences using clear, formal language.
     Begin every answer by saying: "Thank you for your question. Here is the information I found:" and end every answer with "If you have any further questions, feel free to ask."
-    If the context does not include the answer, say you don't know.
+    If the context does not include the answer, say "I don't know".
 
     Context:
     {context}
