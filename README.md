@@ -2,7 +2,10 @@
 
 A local chatbot that answers questions about the Romanian 2025 elections using RAG (Retrieval-Augmented Generation). Built with Streamlit, FAISS, HuggingFace embeddings, and Google's Flan-T5 model for natural language generation.
 
----
+## Interface Preview
+
+![Chatbot Interface](assets/interface.png)
+
 
 ## Features
 
